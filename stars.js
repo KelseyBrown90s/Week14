@@ -28,3 +28,4 @@ export default class Stars extends React.Component{
     );
         }
     }
+//this allows a user to rate up to 5 stars with a button
