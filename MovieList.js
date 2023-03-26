@@ -21,3 +21,4 @@ export default class MovieList extends React.Component{
     }
 }
 //This contains our movies, and which three of them are already entered.
+//I'm not for sure if this is correct because I know we didn't need a database so I just used a few movies like the array suggested.
