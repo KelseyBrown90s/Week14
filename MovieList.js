@@ -20,3 +20,4 @@ export default class MovieList extends React.Component{
         );
     }
 }
+//This contains our movies, and which three of them are already entered.
